@@ -1,4 +1,4 @@
-# QTL TableMiner++ (QTM)
+# This project is based on QTL TableMiner++ (QTM)
 
 [![Build Status](https://travis-ci.org/candYgene/QTM.svg?branch=master)](https://travis-ci.org/candYgene/QTM) [![DOI](https://zenodo.org/badge/85691450.svg)](https://zenodo.org/badge/latestdoi/85691450)
 
